@@ -1,1 +1,2 @@
-
+---
+role: 'roles::rhel7::web_tomcat'
