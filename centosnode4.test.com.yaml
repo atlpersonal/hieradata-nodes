@@ -1,2 +1,2 @@
 ---
-role: 'roles::rhel7::base'
+role: 'roles::rhel6::base'
